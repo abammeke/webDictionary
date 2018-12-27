@@ -1,0 +1,14 @@
+#finds{
+    background-color: cyan;
+    height: 70px;
+    border-color: red;
+}
+
+#hd {
+    text-align: center;
+    font-size: 70px;
+}
+#foot{
+    margin-top: 70px;
+    float:right;
+}
